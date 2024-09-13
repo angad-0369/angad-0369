@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 🌱 I’m currently learning 
+* I am currently learning DevOps and Cloud focusing on tools like Docker, Kubernetes, CI/CD pipelines, and cloud platforms such as AWS.
+* I plan to learn Blockchain to revolutionize transparency and security
+
+# 🚀 What I'm Up To
+* Exploring Machine Learning to derive meaningful insights 🤖
+* Crafting seamless and user-centric digital experiences in Web Development 🌐
