@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello, World! 👋
+I'm a dedicated and motivated grad student at UIUC, majoring in Information Sciences. I am Passionate about technology's potential to shape the future, I'm driven to explore diverse domains within the field.
 
 # 🌱 I’m currently learning 
 * I am currently learning DevOps and Cloud focusing on tools like Docker, Kubernetes, CI/CD pipelines, and cloud platforms such as AWS.
